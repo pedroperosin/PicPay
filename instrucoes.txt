@@ -7,6 +7,12 @@ Report construído com a utilização da gem 'report_builder' disponível após 
 
 ---Instruções:
 1) Instalar o Ruby: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.6.6-1/rubyinstaller-devkit-2.6.6-1-x64.exe
+
 2) Baixar/Clonar o projeto
+
 3) Através do console, navegar até a raiz do projeto, e digitar os comandos:
 gem install bundler
+bundle install
+
+4) Para rodar o projeto, através do console, navegar até a raiz do projeto, e digitar o comando:
+cucumber
