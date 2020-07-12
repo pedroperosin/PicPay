@@ -1,7 +1,7 @@
 # PicPay
 Projeto para processo Especialista Qualidade de Software
 
-## ===== Projeto de automação PicPay ======
+## ===== Projeto de automação PicPay =====
 
 OS: Windows 10 PRO (64 bits)
 
