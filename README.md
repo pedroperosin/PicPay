@@ -54,3 +54,5 @@ bundle install
 ```
 cucumber
 ```
+7) Caso o MacOS não permita que o Chromedriver execute, os passos abaixo podem ajudar:
+https://stackoverflow.com/questions/60362018/macos-catalinav-10-15-3-error-chromedriver-cannot-be-opened-because-the-de
