@@ -1,0 +1,12 @@
+===== Projeto de automação PicPay ======
+OS: Win10 PRO
+Projeto de automação de testes construído utilizando o framework Capybara+Cucumber+Rspec em Ruby.
+Report construído com a utilização da gem 'report_builder' disponível após execução em: ./log/report.html
+
+---Pre-requisitos: Ruby >= 2.5.0
+
+---Instruções:
+1) Instalar o Ruby: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.6.6-1/rubyinstaller-devkit-2.6.6-1-x64.exe
+2) Baixar/Clonar o projeto
+3) Através do console, navegar até a raiz do projeto, e digitar os comandos:
+gem install bundler
