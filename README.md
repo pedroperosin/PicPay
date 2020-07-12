@@ -2,15 +2,20 @@
 Projeto para processo Especialista Qualidade de Software
 
 ===== Projeto de automação PicPay ======
+
 OS: Windows 10 PRO (64 bits)
+
 Browser: Google Chrome 83.0.4103.116 (64 bits)
 
 Projeto de automação de testes construído utilizando o framework Capybara+Cucumber+Rspec em Ruby.
+
 Report construído com a utilização da gem 'report_builder' disponível após execução em: ./log/report.html
 
+
 ---Pre-requisitos: 
-Ruby >= 2.5.0
-Chromedriver compatível com a versão do Chrome
+1) Ruby >= 2.5.0
+2) Chromedriver compatível com a versão do Chrome
+
 
 ---Instruções:
 1) Instalar o Ruby: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.6.6-1/rubyinstaller-devkit-2.6.6-1-x64.exe
