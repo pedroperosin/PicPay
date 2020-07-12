@@ -1,0 +1,71 @@
+Completo:
+    nome: "Pedro Perosin"
+    email: "pedroperosin@gmail.com"
+    telefone: "11963979220"
+    interesse: "Parcerias"
+    assunto: "Vaga QA Especialista"
+    mensagem: "Quero entrar pro time! =)"
+
+Sem nome:
+    nome: ""
+    email: "pedroperosin@gmail.com"
+    telefone: "11963979220"
+    interesse: "Parcerias"
+    assunto: "Vaga QA Especialista"
+    mensagem: "Quero entrar pro time! =)"
+
+Sem email:
+    nome: "Pedro Perosin"
+    email: ""
+    telefone: "11963979220"
+    interesse: "Parcerias"
+    assunto: "Vaga QA Especialista"
+    mensagem: "Quero entrar pro time! =)"
+
+Sem telefone:
+    nome: "Pedro Perosin"
+    email: "pedroperosin@gmail.com"
+    telefone: ""
+    interesse: "Parcerias"
+    assunto: "Vaga QA Especialista"
+    mensagem: "Quero entrar pro time! =)"
+
+Sem interesse:
+    nome: "Pedro Perosin"
+    email: "pedroperosin@gmail.com"
+    telefone: "11963979220"
+    interesse: ""
+    assunto: "Vaga QA Especialista"
+    mensagem: "Quero entrar pro time! =)"
+
+Sem assunto:
+    nome: "Pedro Perosin"
+    email: "pedroperosin@gmail.com"
+    telefone: "11963979220"
+    interesse: "Parcerias"
+    assunto: ""
+    mensagem: "Quero entrar pro time! =)"
+
+Sem mensagem:
+    nome: "Pedro Perosin"
+    email: "pedroperosin@gmail.com"
+    telefone: "11963979220"
+    interesse: "Parcerias"
+    assunto: "Vaga QA Especialista"
+    mensagem: ""
+
+Telefone incorreto:
+    nome: "Pedro Perosin"
+    email: "pedroperosin@gmail.com"
+    telefone: "111111"
+    interesse: "Parcerias"
+    assunto: "Vaga QA Especialista"
+    mensagem: "Quero entrar pro time! =)"
+
+Email incorreto:
+    nome: "Pedro Perosin"
+    email: "pedroperosingmail.com"
+    telefone: "11963979220"
+    interesse: "Parcerias"
+    assunto: "Vaga QA Especialista"
+    mensagem: "Quero entrar pro time! =)"

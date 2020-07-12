@@ -1,0 +1,12 @@
+---
+    default: -p PROD -p chrome -p json -p pretty
+    CI: -p DEV -p chrome -p json -p pretty #Exemplo pra uso de CI/CD
+    PROD: ENV_TYPE=PROD
+    DEV: ENV_TYPE=DEV
+    firefox: BROWSER=firefox
+    chrome: BROWSER=chrome
+    headless: BROWSER=headless
+    html: --format html --out=log/report.html
+    json: --format json --out=log/report.json
+    pretty: --format pretty
+    progress: --format progress
