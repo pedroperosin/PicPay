@@ -17,24 +17,40 @@ Report construído com a utilização da gem 'report_builder' disponível após 
 2) Chromedriver compatível com a versão do Chrome
 
 
-### ---Instruções:
+### ---Instruções Windows:
 1) Instalar o Ruby: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.6.6-1/rubyinstaller-devkit-2.6.6-1-x64.exe
-
 2) Instalar o ChromeDriver compatível com a versão do Chrome: https://chromedriver.chromium.org/downloads
-
 3) Importante garantir que tanto os executáveis do Ruby e do Chromedriver estejam em diretórios do PATH, ou então, incluí-los no PATH
-
 4) Baixar/Clonar o projeto
-
 5) Através do console, navegar até a raiz do projeto, e digitar os comandos:
 ```
 gem install bundler
 bundle install
 ```
-
 6) Para rodar o projeto, através do console, navegar até a raiz do projeto, e digitar o comando:
 ```
 cucumber
 ```
-
 7) Para verificar os resultados, o report ficará disponível em ./log/report.html
+
+
+### ---Instruções MacOS:
+1) Instalar o Ruby via homebrew:
+```
+$ brew install ruby
+```
+2) Instalar o ChromeDriver via homebrew:
+```
+$ brew cask install chromedriver
+```
+3) Importante garantir que o Ruby e Chromedriver estejam em diretórios do PATH, ou então, incluí-los no PATH
+4) Baixar/Clonar o projeto
+5) Através do console, navegar até a raiz do projeto, e digitar os comandos:
+```
+gem install bundler
+bundle install
+```
+6) Para rodar o projeto, através do console, navegar até a raiz do projeto, e digitar o comando:
+```
+cucumber
+```
