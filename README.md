@@ -3,9 +3,10 @@ Projeto para processo Especialista Qualidade de Software
 
 ## ===== Projeto de automação PicPay =====
 
-**OS**: Windows 10 PRO (64 bits)
+Projeto desenvolvido em:
+> **OS**: Windows 10 PRO (64 bits)
 
-**Browser**: Google Chrome 83.0.4103.116 (64 bits)
+> **Browser**: Google Chrome 83.0.4103.116 (64 bits)
 
 Projeto de automação de testes construído utilizando o framework Capybara+Cucumber+Rspec em Ruby.
 Report construído com a utilização da gem 'report_builder' disponível após execução em: ./log/report.html
